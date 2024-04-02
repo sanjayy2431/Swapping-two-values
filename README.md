@@ -24,7 +24,8 @@ b=int(input())
 print("Swapped values are:",b,a)
 ```
 ## OUTOUT:
-![Screenshot 2024-03-09 093200](https://github.com/sanjayy2431/Swapping-two-values/assets/149365143/1e741c05-6d92-4d47-af1d-15ef59448d2a)
+![image](https://github.com/sanjayy2431/Swapping-two-values/assets/149365143/4f89d1f9-cbe9-4801-af5b-65452e8ae0bd)
+
 
 
 
