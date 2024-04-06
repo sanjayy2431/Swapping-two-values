@@ -18,10 +18,11 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
+
+## Program to swap two values
+## Developed by: V.sanjay
+## Register number: 212223230188
 ```
-#Program to swap two values
-#Developed by: V.sanjay
-#Register number: 212223230188
 a=input()
 b=input()
 c=a
